@@ -5338,7 +5338,7 @@ input[type="email"].transparent {
   background-color: #1abcb0; }
 
 .progress-bars {
-  margin-bottom: 30px; }
+  margin-bottom: 0px; }
   .progress-bars h6 {
     color: #6c6c6c;
     font-family: "Open Sans", sans-serif;
@@ -5362,7 +5362,7 @@ input[type="email"].transparent {
   height: 8px;
   border-radius: 0;
   position: relative;
-  background: #f7f7f7;
+  background: #efefef;
   margin-bottom: 25px;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
