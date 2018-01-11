@@ -4796,12 +4796,12 @@ input[type="email"].transparent {
 
 .owl-carousel:hover .owl-next,
 #flexslider:hover .flex-direction-nav .flex-next {
-  opacity: 0.5;
+  opacity: 1;
   right: 10px; }
 
 .owl-carousel:hover .owl-prev,
 #flexslider:hover .flex-direction-nav .flex-prev {
-  opacity: 0.5;
+  opacity: 1;
   left: 10px; }
 
 .flickity-slider-wrap:hover .flickity-prev-next-button.previous {
