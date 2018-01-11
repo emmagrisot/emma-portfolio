@@ -4716,12 +4716,12 @@ input[type="email"].transparent {
 .owl-prev,
 .flex-direction-nav .flex-prev,
 .flickity-prev-next-button.previous {
-  left: -40px; }
+  left: 0px; }
 
 .owl-next,
 .flex-direction-nav .flex-next,
 .flickity-prev-next-button.next {
-  right: -40px; }
+  right: 0px; }
 
 .flex-direction-nav .flex-prev,
 .flex-direction-nav .flex-next {
@@ -4740,7 +4740,7 @@ input[type="email"].transparent {
   z-index: 10;
   width: 40px;
   height: 40px;
-  opacity: 0;
+  opacity: 1;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
