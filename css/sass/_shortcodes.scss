@@ -42,7 +42,7 @@
     opacity: 0.7;
     background: transparent;
     z-index: 100;
-    border: 2px solid #fff;
+    border: 2px solid #debcbd;
     border-radius: 50%;
     @include transition ($all);
 
@@ -146,11 +146,11 @@
 .light-arrows .owl-prev i,
 .light-arrows .owl-next i,
 #flexslider.light-arrows a i {
-  color: #fff;
+  color: #debcbd;
 }
 
 .light-arrows .flickity-prev-next-button .arrow {
-  fill: #fff;
+  fill: #debcbd;
 }
 
 .owl-carousel:hover .owl-next,
@@ -191,7 +191,7 @@
   transform: none;
 
   & .arrow {
-    fill: #fff;
+    fill: #debcbd;
   }
 }
 
@@ -207,7 +207,7 @@
   width: 12px;
   opacity: 0.5;
   margin: 0 5px;
-  border: 2px solid #fff;
+  border: 2px solid #debcbd;
   @include transition ($all);
   border-radius: 50%;
   background: transparent;
@@ -256,7 +256,7 @@
 }
 
 .owl-white-dots .owl-page.active span {
-  background-color: #fff;
+  background-color: #debcbd;
 }
 
 .owl-carousel.dots-inside .owl-pagination {
@@ -272,7 +272,7 @@
   .prev,
   .next {
     display: inline-block;
-    background-color: #fff;
+    background-color: #debcbd;
     cursor: pointer;
     height: 47px;
     width: 75px;
