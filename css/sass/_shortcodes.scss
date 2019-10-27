@@ -30,7 +30,7 @@
     height: 12px;
     margin: 0;
     opacity: 1;
-    border-color: transparent;
+    border-color: #debcbd;
     background: $main-color;
   }
 
@@ -220,7 +220,7 @@
 .flickity-page-dots .dot.is-selected {
   opacity: 1;
   background: $main-color;
-  border-color: transparent;
+  border-color: #debcbd;
 }
 
 .flex-control-nav {
@@ -247,12 +247,12 @@
 
 .flickity-slider-wrap.dark-dots .flickity-page-dots .dot,
 .owl-dark-dots .owl-page span {
-  border-color: $text-color;
+  border-color: #debcbd;
 }
 
 .flickity-slider-wrap.dark-dots .flickity-page-dots .dot.is-selected,
 .owl-dark-dots .owl-page.active span {
-  border-color: transparent;
+  border-color: #debcbd;
 }
 
 .owl-white-dots .owl-page.active span {
@@ -280,7 +280,7 @@
     font-size: 22px;
     text-align: center;
     color: $heading-color;
-    border: 1px solid #edf2f4;
+    border: 1px solid #debcbd;
     border-radius: 3px;
 
     &:hover {
