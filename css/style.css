@@ -707,7 +707,9 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
     font-size: 42px; }
 
 .heading-row {
-  margin-bottom: 70px; }
+  margin-bottom: 30px;
+  margin-top: 30px;
+   }
   .heading-row.style-2 {
     margin-bottom: 60px; }
   .heading-row .subheading:first-child {
