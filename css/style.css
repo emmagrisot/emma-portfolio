@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: 'Blush Asliring';
-    src: url('fonts/blushasliring-regular.woff2') format('woff2'),
-         url('fonts/blushasliring-regular.woff') format('woff');
+    src: url('../fonts/blushasliring-regular.woff2') format('woff2'),
+         url('../fonts/blushasliring-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
