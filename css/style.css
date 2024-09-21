@@ -2,9 +2,9 @@
 
 @font-face {
 font-family: "Blush Asliring";
-src: url("font/BlushAsliring-Regular.woff2");
-src: url("font/BlushAsliring-Regular.woff") format("woff"),
-url("font/BlushAsliring-Regular.otf") format("opentype");
+src: url("fonts/BlushAsliring-Regular.woff2");
+src: url("fonts/BlushAsliring-Regular.woff") format("woff"),
+url("fonts/BlushAsliring-Regular.otf") format("opentype");
 }
 
 
