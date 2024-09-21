@@ -1,4 +1,13 @@
-<?php
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Envoi d'un message par formulaire</title>
+</head>
+
+<body>
+
+    <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Récupération des données du formulaire
     $firstname = htmlspecialchars($_POST['firstname']);
@@ -35,3 +44,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "Méthode non autorisée.";
 }
 ?>
+
+
+</body>
+</html>
