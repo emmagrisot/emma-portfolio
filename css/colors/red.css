@@ -1,6 +1,6 @@
 ::-moz-selection { color: #fff; background: #e95e49; }
 ::-webkit-selection { color: #fff; background: #e95e49; }
-::selection { color: #fff; background: #debcbd; }
+::selection { color: #fff; background: #F9D3BD; }
 
 a,
 a:focus,
@@ -69,7 +69,7 @@ blockquote > span,
 .intro.style-6 .subtitle,
 .owl-custom-arrows .prev:hover,
 .owl-custom-arrows .next:hover {
-  color: #debcbd;
+  color: #ef8049;
 }
 
 .bg-color,
@@ -105,11 +105,11 @@ header.transparent .navigation.scrolling #nav-icon:hover span,
 .owl-page.active span,
 .flickity-page-dots .dot.is-selected,
 .nav-cart-badge {
-  background-color: #debcbd;
+  background-color: #ef8049;
 }
 
 .btn.btn-color:hover {
-  background-color: #debcbd;
+  background-color: #fda67b;
 }
 
 .work-item.hover-6 .hover-overlay {
@@ -140,7 +140,7 @@ input[type="tel"]:focus,
 input[type="time"]:focus,
 input[type="url"]:focus,
 textarea:focus {
-  border-color: #debcbd;
+  border-color: #fce4d8;
 }
 
 
