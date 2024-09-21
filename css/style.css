@@ -183,7 +183,7 @@ img.alignright {
 body {
   margin: 0;
   padding: 0;
-  font-family: Now, sans-serif;
+  font-family: 'Now', sans-serif;
   font-size: 14px;
   line-height: 1.5;
   font-smoothing: antialiased;
@@ -1075,7 +1075,7 @@ ol.numbers {
   display: inline-block;
   float: none; }
   .navbar-nav > li > a {
-    font-family: Now, sans-serif;
+    font-family: 'Now', sans-serif;
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 0.1em;
@@ -1169,7 +1169,7 @@ header.transparent.dark .navbar-nav > li > a {
     -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    font-family: Now, sans-serif;
+    font-family: 'Now', sans-serif;
     text-transform: uppercase;
     font-weight: 400; }
   .dropdown-menu.megamenu, .dropdown-menu.megamenu-wide {
@@ -2527,7 +2527,7 @@ section.angle-bottom {
 /* Testimonials
 /*-------------------------------------------------------*/
 .testimonials .testimonial-text {
-  font-family: Now, sans-serif;
+  font-family: 'Now', sans-serif;
   font-size: 22px;
   color: #424242;
   line-height: 34px;
@@ -4195,7 +4195,7 @@ input[type="email"].transparent {
   }
   .portfolio-filter a {
     display: inline-block;
-    font-family: Now, sans-serif;
+    font-family: 'Now', sans-serif;
     font-weight: 400;
     padding: 0 15px;
     color: #fda67b;
@@ -5641,7 +5641,7 @@ input[type="email"].transparent {
   line-height: 160px;
   z-index: 2;
   font-size: 26px;
-  font-family: Now, sans-serif;
+  font-family: 'Now', sans-serif;
   color: #424242;
   font-weight: bold; }
 
@@ -5657,7 +5657,7 @@ input[type="email"].transparent {
   margin-bottom: 20px; }
 
 .btn {
-  font-family: Now, sans-serif;
+  font-family: 'Now', sans-serif;
   font-weight: 500;
   text-transform: uppercase;
   text-decoration: none;
@@ -6160,7 +6160,7 @@ table th {
 .table thead tr th {
   font-size: 12px;
   color: #424242;
-  font-family: Now, sans-serif;
+  font-family: 'Now', sans-serif;
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 0.05em; }
@@ -8390,7 +8390,7 @@ font-weight: 700;
 .text-block-83 {
 letter-spacing: 1px;
 text-transform: uppercase;
-font-family: Now, sans-serif;
+font-family: 'Now', sans-serif;
 text-align: center;
 }
 
@@ -8399,7 +8399,7 @@ text-align: center;
 text-transform: none;
 align-self: center;
 margin-top: 15px;
-font-family: Now, sans-serif;
+font-family: 'Now', sans-serif;
 font-size: 12px;
 font-weight: 400;
 line-height: 1.5;
@@ -8416,7 +8416,7 @@ text-align: left;
 text-transform: none;
 align-self: center;
 margin-top: 15px;
-font-family: Now, sans-serif;
+font-family: 'Now', sans-serif;
 font-size: 11px;
 font-weight: 400;
 line-height: 1.5;
