@@ -641,6 +641,26 @@
               </form>
             </div> <!-- end col -->
 
+
+            <form action="send_email.php" method="post">
+              <label for="name">Name (mandatory):</label><br>
+              <input type="text" id="name" name="name" required><br><br>
+
+              <label for="surname">Surname (mandatory):</label><br>
+              <input type="text" id="surname" name="surname" required><br><br>
+
+              <label for="email">Email (mandatory):</label><br>
+              <input type="email" id="email" name="email" required><br><br>
+
+              <label for="company">Company:</label><br>
+              <input type="text" id="company" name="company"><br><br>
+
+              <label for="message">Message (mandatory):</label><br>
+              <textarea id="message" name="message" required></textarea><br><br>
+
+              <input type="submit" value="Submit">
+            </form>
+
           </div>
 
 
